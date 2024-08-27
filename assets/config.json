@@ -1,0 +1,148 @@
+{
+  "name": "CustomIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c2388bda9ba41a5b88ac09adb6a5c089",
+      "css": "dumbbell",
+      "code": 62539,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "10e5f4fab16235e28c5ba4bfefb476e9",
+      "css": "sun",
+      "code": 61829,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "757afacc32d82967975cbb3b45cfb41b",
+      "css": "desktop",
+      "code": 61704,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d0d7910ebaab11742e8282c657ff1bc9",
+      "css": "gamepad",
+      "code": 61723,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "30b79160618d99ce798e4bd11cafe3fe",
+      "css": "food",
+      "code": 61685,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b08f8c33777cd6b512d9576fc6e7f405",
+      "css": "food-1",
+      "code": 59392,
+      "src": "linecons"
+    },
+    {
+      "uid": "d27bcf5c8638e4078aaadae1d49b6909",
+      "css": "fast-food",
+      "code": 59413,
+      "src": "maki"
+    },
+    {
+      "uid": "575f5418ee53db3a04b54dfbe5213422",
+      "css": "muscle_up",
+      "code": 59976,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d407a4707f719b042ed2ad28d2619d7e",
+      "css": "signal",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "38575a803c4da31ce20d77e1e1236bcb",
+      "css": "paper-plane",
+      "code": 61912,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b2321afcbe0505a70b80abd5c25e09b",
+      "css": "paper-plane-empty",
+      "code": 61913,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a2a74f5e7b7d9ba054897d8c795a326a",
+      "css": "list-bullet",
+      "code": 61642,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7ea4150d9eb2d2ade9491d5ad905718c",
+      "css": "credit-card-alt",
+      "code": 62083,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e0d15ef5945000f5f264acc35494002f",
+      "css": "basket",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "cddbeffea9d90c5db93d5d3e77b8893e",
+      "css": "cart-plus",
+      "code": 61975,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "93c35534e6b079466c4676cdedcdb7c1",
+      "css": "cart-arrow-down",
+      "code": 61976,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c5dae27e563af547739c37198a00a389",
+      "css": "wallet",
+      "code": 62805,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "ee7bdf6ae18f8215c9dd29d68f4cb335",
+      "css": "weight_hanging",
+      "code": 62925,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "2169861329c13fef61a01e4cf0575997",
+      "css": "weight",
+      "code": 62614,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "af877921fc2dd333d8c67e632a42f3b1",
+      "css": "move_to_inbox",
+      "code": 59395,
+      "src": "material"
+    },
+    {
+      "uid": "2c5335c6e56b876139d7a58ab2f4b2fe",
+      "css": "bell",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "7b6c617d6d1e3f22db493839f0483bf6",
+      "css": "edit",
+      "code": 59397,
+      "src": "elusive"
+    },
+    {
+      "uid": "f0eac0958921fe45b85d01b79d76e86b",
+      "css": "switch",
+      "code": 59398,
+      "src": "entypo"
+    }
+  ]
+}
